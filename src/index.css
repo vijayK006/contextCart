@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.breadcrumb-card{
+  color: brown;
+}
+
+.cart-items p{
+  color: gray;
+}
+
+.card-img{
+  height: 300px;
+  width: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.card-img img{
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+
+
+a{
+  text-decoration: none !important;
+  color: inherit;
+}
